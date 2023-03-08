@@ -4,11 +4,19 @@ project(TCpp
 		VERSION 1.3
 		LANGUAGES CXX Fortran)
 
+## Project options default values
+if (CMAKE_PROJECT_NAME STREQUAL PROJECT_NAME)
+	set(TCPP_WITH_TESTS_Default "ON")
+else ()
+	set(TCPP_WITH_TESTS_Default "OFF")
+endif ()
+
 ## Project options
 option(TCPP_WITH_MPI "Tcpp: Build with MPI support" ON)
 option(TCPP_WITH_Boost "Tcpp: Build with Boost support" ON)
 option(TCPP_WITH_Eigen3 "Tcpp: Build with Eigen3 support" ON)
 option(TCPP_WITH_FFTW3 "Tcpp: Build with FFTW3 support" OFF)
+option(TCPP_WITH_TESTS "Tcpp: Build unit tests" ${TCPP_WITH_TESTS_Default})
 
 ## Set standard options
 if (NOT DEFINED CMAKE_BUILD_TYPE)
@@ -67,3 +75,9 @@ set_target_properties(TCpp_tc++ PROPERTIES
 		EXPORT_NAME tc++
 		OUTPUT_NAME tc++)
 add_subdirectory(src)
+
+## Testing
+if (TCPP_WITH_TESTS)
+	enable_testing()
+	add_subdirectory(test)
+endif ()
