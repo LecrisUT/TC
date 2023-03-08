@@ -1,0 +1,27 @@
+[project]
+name = "tcpp-devtools"
+version = "0.0.0"
+requires-python = ">=3.7"
+description = "This is a dummy tc++ project to install the necessary development tools"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [ ]
+maintainers = [
+    {name="Cristian Le", email="cristian.le@mpsd.mpg.de"},
+]
+
+[project.optional-dependencies]
+testing = [ ]
+doc = [
+    # TODO: Bump to Sphinx 6.0 when sphinx-design supports it
+    "Sphinx==5.3",
+    # TODO: Move to better documentation
+#    "sphinxcontrib-bibtex==2.5",
+#    "sphinx-togglebutton==0.3.2",
+#    "sphinx-design==0.3.0",
+#    "myst-parser==0.19",
+#    "linkify-it-py==2.0.0",
+    "breathe",
+]
+benchmark = [ ]
+dev = [ "pre-commit" ]
