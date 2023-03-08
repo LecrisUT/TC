@@ -9,6 +9,7 @@ option(TCPP_WITH_MPI "Tcpp: Build with MPI support" ON)
 option(TCPP_WITH_Boost "Tcpp: Build with Boost support" ON)
 option(TCPP_WITH_Eigen3 "Tcpp: Build with Eigen3 support" ON)
 option(TCPP_WITH_FFTW3 "Tcpp: Build with FFTW3 support" OFF)
+option(TCPP_WITH_Docs "Tcpp: Build Doxygen documentation" OFF)
 
 ## Set standard options
 if (NOT DEFINED CMAKE_BUILD_TYPE)
@@ -67,3 +68,8 @@ set_target_properties(TCpp_tc++ PROPERTIES
 		EXPORT_NAME tc++
 		OUTPUT_NAME tc++)
 add_subdirectory(src)
+
+## Documentation
+if (TCPP_WITH_Docs)
+	add_subdirectory(docs)
+endif ()
