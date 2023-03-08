@@ -4,13 +4,12 @@
 #ifndef TC_METHOD_HPP
 #define TC_METHOD_HPP
 
-class Method
-{
-private:
-    std::string calc_method_;  // HF or TC or BITC or FREE
-    std::string calc_mode_;    // SCF or BAND
+class Method {
+  private:
+    std::string calc_method_; // HF or TC or BITC or FREE
+    std::string calc_mode_;   // SCF or BAND
 
-public:
+  public:
     const std::string &calc_method() const { return calc_method_; }
     const std::string &calc_mode() const { return calc_mode_; }
 

@@ -20,7 +20,7 @@ Please note the following issues in QE calculation:
   copy that directory, and perform BAND calculation there.
 
 - Please specify ``noinv = .true.`` and ``no_t_rev = .true.`` for spin-polarized calculation since TC++ at present does not support these symmetry operations.
-  
+
 - There are some restrictions on pseudopotentials. See below.
 
 
@@ -51,7 +51,7 @@ Users just need to make ``input.in`` and specify where the first three files (ps
   This file should be made by users and read by TC++. See :doc:`input_in` for details.
 
 For restarting SCF calculation or performing band calculation after SCF, TC++ requires some other input files dumped by TC++. Please see output_files_.
-  
+
 How to run TC++
 ---------------
 
@@ -76,7 +76,7 @@ Output files of TC++
 The following output files are obtained by TC++ calculation:
 
 - Standard output
-  
+
   **Error messages are shown in the standard output. Please check it when calculation unexpectedly stops.**
 
 - ``output.out``
@@ -121,6 +121,3 @@ Users will not read them but some subsequent TC++ calculations need them.
   Several information of SCF calculation that are used for subsequent BAND calculation.
 
 Here, ``tc_energy_scf/band.dat`` and ``tc_wfc_scf/band.dat`` are dumped in each self-consistent loop so that users can restart calculation when calculation stops.
-
-
-

@@ -44,293 +44,293 @@ Num. of MPI Processes = 1
   qes:espresso.output.magnetization.noncolin =  false
   qes:espresso.output.magnetization.lsda =  true
   qes:espresso.output.symmetries.nsym =  48
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
   qes:espresso.input.symmetry_flags.no_t_rev =  true
   qes:espresso.input.symmetry_flags.noinv =  true
@@ -342,60 +342,60 @@ Num. of MPI Processes = 1
    qes:espresso.output.band_structure.ks_energies.k_point.<xmlattr>.weight =  1.250000000000e-1
    qes:espresso.output.band_structure.ks_energies.npw =  259
    qes::espresso.output.band_structure_ks_energies.eigenvalues.<xmlattr>.size =  18
-   qes:espresso.output.band_structure.ks_energies.eigenvalues =  
+   qes:espresso.output.band_structure.ks_energies.eigenvalues =
           -2.002480666124570e-1 2.476088286346017e-1 2.476088286346022e-1 2.476088286346027e-1 3.393449507573316e-1
           3.393449507573316e-1 3.393449507573471e-1 3.664655130488218e-1 5.361464606818426e-1 -2.002487519891795e-1
           2.476103648157780e-1 2.476103648157785e-1 2.476103648157852e-1 3.393427018861340e-1 3.393427018861340e-1
           3.393427018863617e-1 3.664592243011012e-1 5.361448617388449e-1
-          
+
   Irreducible k-point: 1
    qes:espresso.output.band_structure.ks_energies.k_point =  -5.000000000000000e-1 5.000000000000000e-1 -5.000000000000000e-1
    qes:espresso.output.band_structure.ks_energies.k_point.<xmlattr>.weight =  5.000000000000e-1
    qes:espresso.output.band_structure.ks_energies.npw =  266
    qes::espresso.output.band_structure_ks_energies.eigenvalues.<xmlattr>.size =  18
-   qes:espresso.output.band_structure.ks_energies.eigenvalues =  
+   qes:espresso.output.band_structure.ks_energies.eigenvalues =
           -1.137381166519089e-1 -1.768803350296659e-2 1.980268664280993e-1 1.980268664283069e-1 3.052994823455549e-1
           3.741257759688975e-1 3.741257760072241e-1 5.278681942701273e-1 6.702181253086559e-1 -1.137387867536670e-1
           -1.768878243024154e-2 1.980276962261388e-1 1.980276962308984e-1 3.052958758383499e-1 3.741237779606279e-1
           3.741237780292477e-1 5.278652706106570e-1 6.702192504679571e-1
-          
+
   Irreducible k-point: 2
    qes:espresso.output.band_structure.ks_energies.k_point =  0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
    qes:espresso.output.band_structure.ks_energies.k_point.<xmlattr>.weight =  3.750000000000e-1
    qes:espresso.output.band_structure.ks_energies.npw =  254
    qes::espresso.output.band_structure_ks_energies.eigenvalues.<xmlattr>.size =  18
-   qes:espresso.output.band_structure.ks_energies.eigenvalues =  
+   qes:espresso.output.band_structure.ks_energies.eigenvalues =
           -4.640575226400081e-2 -4.640575226353094e-2 1.339321460335381e-1 1.339321460337781e-1 2.749187798908204e-1
           2.749187801243773e-1 6.200812727953502e-1 6.200812728094531e-1 7.024942290411682e-1 -4.640640511067121e-2
           -4.640640511061500e-2 1.339323210154853e-1 1.339323210159054e-1 2.749164237852364e-1 2.749164237960016e-1
           6.200763358113570e-1 6.200763358681836e-1 7.024865462737253e-1
-          
+
   Irreducible k-point: 3
    qes:espresso.output.band_structure.ks_energies.k_point =  5.000000000000000e-1 5.000000000000000e-1 5.000000000000000e-1
    qes:espresso.output.band_structure.ks_energies.k_point.<xmlattr>.weight =  0.000000000000e0
    qes:espresso.output.band_structure.ks_energies.npw =  266
    qes::espresso.output.band_structure_ks_energies.eigenvalues.<xmlattr>.size =  18
-   qes:espresso.output.band_structure.ks_energies.eigenvalues =  
+   qes:espresso.output.band_structure.ks_energies.eigenvalues =
           -1.137381166552404e-1 -1.768803350696360e-2 1.980268664280494e-1 1.980268664283078e-1 3.052994823130217e-1
           3.741257757049770e-1 3.741257757171331e-1 5.278681919806123e-1 6.702158665586861e-1 -1.137387867546705e-1
           -1.768878243234635e-2 1.980276962255742e-1 1.980276962261371e-1 3.052958758184382e-1 3.741237779223977e-1
           3.741237779289395e-1 5.278652681612977e-1 6.702142578372793e-1
-          
+
   Irreducible k-point: 4
    qes:espresso.output.band_structure.ks_energies.k_point =  4.000000000000000e-1 4.000000000000000e-1 4.000000000000000e-1
    qes:espresso.output.band_structure.ks_energies.k_point.<xmlattr>.weight =  0.000000000000e0
    qes:espresso.output.band_structure.ks_energies.npw =  269
    qes::espresso.output.band_structure_ks_energies.eigenvalues.<xmlattr>.size =  18
-   qes:espresso.output.band_structure.ks_energies.eigenvalues =  
+   qes:espresso.output.band_structure.ks_energies.eigenvalues =
           -1.310117156609670e-1 8.608250853569544e-3 2.009474937136167e-1 2.009474937140916e-1 3.080760823602727e-1
           3.766102579201667e-1 3.766102579211879e-1 5.318521515336172e-1 6.026611542300451e-1 -1.310124211666903e-1
           8.607559614496092e-3 2.009483315697447e-1 2.009483315705848e-1 3.080724975393591e-1 3.766082655710595e-1
           3.766082655775130e-1 5.318491160093000e-1 6.026605318533614e-1
-          
+
   Print symmetrically-repiclated kvectors:
   Irreducible k-vector (ik = 0) 0 0 0
    symmetrically-equivalent k-vector (isymk = 0): 0 0 0
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
 1 0 0
 0 1 0
 0 0 1
@@ -404,7 +404,7 @@ Num. of MPI Processes = 1
 
   Irreducible k-vector (ik = 1) 0 0 0.5
    symmetrically-equivalent k-vector (isymk = 0): 0 0 0.5
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
 1 0 0
 0 1 0
 0 0 1
@@ -412,7 +412,7 @@ Num. of MPI Processes = 1
    translation vector (while not applied to the k-vector) = 0 0 0
 
    symmetrically-equivalent k-vector (isymk = 1): -0.5 -0.5 -0.5
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
  0  1 -1
  1  0 -1
  0  0 -1
@@ -420,7 +420,7 @@ Num. of MPI Processes = 1
    translation vector (while not applied to the k-vector) = 0 0 0
 
    symmetrically-equivalent k-vector (isymk = 2): 0 0.5 0
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
 -1  0  0
 -1  0  1
 -1  1  0
@@ -428,7 +428,7 @@ Num. of MPI Processes = 1
    translation vector (while not applied to the k-vector) = 0 0 0
 
    symmetrically-equivalent k-vector (isymk = 3): 0.5 0 0
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
  0 -1  1
  0 -1  0
  1 -1  0
@@ -437,7 +437,7 @@ Num. of MPI Processes = 1
 
   Irreducible k-vector (ik = 2) 0 0.5 0.5
    symmetrically-equivalent k-vector (isymk = 0): 0 0.5 0.5
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
 1 0 0
 0 1 0
 0 0 1
@@ -445,7 +445,7 @@ Num. of MPI Processes = 1
    translation vector (while not applied to the k-vector) = 0 0 0
 
    symmetrically-equivalent k-vector (isymk = 1): -0.5 0 -0.5
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
  0 -1  0
 -1  0  0
  0  0 -1
@@ -453,7 +453,7 @@ Num. of MPI Processes = 1
    translation vector (while not applied to the k-vector) = 0.25 0.25 0.25
 
    symmetrically-equivalent k-vector (isymk = 2): 0.5 0.5 0
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
 -1  1  0
  0  1  0
  0  1 -1
@@ -462,7 +462,7 @@ Num. of MPI Processes = 1
 
   Irreducible k-vector (ik = 3) 0 0.5 0
    symmetrically-equivalent k-vector (isymk = 0): 0 0.5 0
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
 1 0 0
 0 1 0
 0 0 1
@@ -471,7 +471,7 @@ Num. of MPI Processes = 1
 
   Irreducible k-vector (ik = 4) 0 0.4 0
    symmetrically-equivalent k-vector (isymk = 0): 0 0.4 0
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
 1 0 0
 0 1 0
 0 0 1
@@ -655,7 +655,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (3.999992347,0) , num. of electrons (spin down) = (4.000007651,0)
    total magnetization = (-1.530425521e-05,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  1.668143687e-05  1.668245467e-05  -1.017802374e-09  3.336389154e-05
     0.2  1.668143687e-05  1.668245467e-05  -1.017802374e-09  3.336389154e-05
@@ -697,7 +697,7 @@ Num. of MPI Processes = 1
     3.8  3.765826078  3.765836327  -1.024886407e-05  7.531662406
     3.9  3.954838435  3.954850867  -1.243249601e-05  7.909689302
     4  4.134283697  4.134299066  -1.536909859e-05  8.268582764
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  1.668141836e-05  1.668245659e-05  -1.038227169e-09  3.336387495e-05
     0.2  1.668141836e-05  1.668245659e-05  -1.038227169e-09  3.336387495e-05
@@ -899,7 +899,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (3.999996447,0) , num. of electrons (spin down) = (4.000003552,0)
    total magnetization = (-7.105504975e-06,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  1.742178076e-05  1.742199205e-05  -2.112926049e-10  3.484377281e-05
     0.2  1.742178076e-05  1.742199205e-05  -2.112926049e-10  3.484377281e-05
@@ -941,7 +941,7 @@ Num. of MPI Processes = 1
     3.8  3.789145568  3.789147137  -1.568936749e-06  7.578292705
     3.9  3.970722699  3.970726397  -3.697990768e-06  7.941449097
     4  4.14198537  4.141991846  -6.475760705e-06  8.283977216
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  1.742172127e-05  1.742196439e-05  -2.431281528e-10  3.484368566e-05
     0.2  1.742172127e-05  1.742196439e-05  -2.431281528e-10  3.484368566e-05

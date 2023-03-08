@@ -17,7 +17,7 @@ Tips
   (iii) increase the number of bands, and (iv) reduce ``mixing_beta`` with ``mixes_density_matrix`` = true. In general, (i) is the most effective in many cases because of the divergence correction in the reciprocal space.
   Since ``A_up_up = A_up_dn = A_dn_dn = 0.0`` in (BI)TC is equivalent to HF, performing (BI)TC calcultaion with a small value of the A parameter,
   and then restarting calculation with increasing the A values, might be another way to get convergence if HF has no problem for convergence.
-  
+
 - Band dispersion is not smooth.
 
   Due to the difficulty in correcting  the :math:`1/(k-k')^2` divergence of the electron-electron interactions in the reciprocal space,

@@ -2,7 +2,7 @@
 ! [Functionality]
 ! Read wavefunctions from "qe_wfc_char" (file name) in QE (Quantum Espresso)
 !
-! <namespace read_qe is declared in include/read_qe.hpp, 
+! <namespace read_qe is declared in include/read_qe.hpp,
 !  defined in read_qe.cpp & read_qe_xml.cpp & read_qe_wfc.f90>
 !
 ! [Other info]
@@ -45,27 +45,27 @@ subroutine read_qe_wfc(nlength, qe_wfc_char, ik, igwx, nbnd, npol, mill, evc) bi
 !  write(6,*) "Read QE wave functions from ", trim(filename_converted)
   iunit = 100
   open(iunit, file = filename_converted, form = 'unformatted', status = 'old')
-  
+
   read(iunit) ic1, xk, ispin, gamma_only, scalef
   call error_chk_qe_wavefunc_int(ik, ic1, "ik")
   if(gamma_only.eqv..true.) then
      write(6,*) 'TC++ does not support gamma_only calculation. (read_qe_wfc)'
      call MPI_ABORT(MPI_COMM_WORLD,999,ierr)
   end if
-  
+
   read(iunit) ngw, ic1, ic2, ic3
   call error_chk_qe_wavefunc_int(igwx, ic1, "igwx")
   call error_chk_qe_wavefunc_int(npol, ic2, "npol")
   call error_chk_qe_wavefunc_int(nbnd, ic3, "nbnd")
-  
-  read(iunit) b1, b2, b3  
+
+  read(iunit) b1, b2, b3
   read(iunit) mill(1:3,1:igwx)
   do ibnd = 1, nbnd ! ibnd = band index
      read(iunit) evc(1:npol*igwx,ibnd)
   end do ! ibnd
   evc(:,:) = scalef*evc(:,:) ! multiplied with the scale factor
 
-  close(iunit)       
+  close(iunit)
 end subroutine read_qe_wfc
 
 ! The same as above but reads non-binary files (for test calculation)
@@ -116,18 +116,18 @@ subroutine read_qe_wfc_nonbin(nlength, qe_wfc_char, ik, igwx, nbnd, npol, mill, 
   filename_converted_nonbin = filename_converted//nonbin
   open(iunit, file = filename_converted_nonbin, status = 'old')
 
-  read(iunit,'(I10,3f20.13,I2,L2,f20.13)') ic1, xk(:), ispin, gamma_only, scalef  
+  read(iunit,'(I10,3f20.13,I2,L2,f20.13)') ic1, xk(:), ispin, gamma_only, scalef
   call error_chk_qe_wavefunc_int(ik, ic1, "ik")
   if(gamma_only.eqv..true.) then
      write(6,*) 'TC++ does not support gamma_only calculation. (read_qe_wfc)'
      call MPI_ABORT(MPI_COMM_WORLD,999,ierr)
   end if
 
-  read(iunit, '(4I10)') ngw, ic1, ic2, ic3  
+  read(iunit, '(4I10)') ngw, ic1, ic2, ic3
   call error_chk_qe_wavefunc_int(igwx, ic1, "igwx")
   call error_chk_qe_wavefunc_int(npol, ic2, "npol")
   call error_chk_qe_wavefunc_int(nbnd, ic3, "nbnd")
-  
+
   read(iunit, '(9f20.13)') b1(:), b2(:), b3(:)
   do i1 = 1, igwx
      read(iunit, '(3I10)') mill(1:3,i1)
@@ -141,7 +141,7 @@ subroutine read_qe_wfc_nonbin(nlength, qe_wfc_char, ik, igwx, nbnd, npol, mill, 
   end do ! ibnd
   evc(:,:) = scalef*evc(:,:) ! multiplied with the scale factor
 
-  close(iunit)       
+  close(iunit)
 end subroutine read_qe_wfc_nonbin
 
 subroutine error_chk_qe_wavefunc_int(ixml, iwfc, varname)

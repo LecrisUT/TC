@@ -45,293 +45,293 @@ Num. of MPI Processes = 1
   qes:espresso.output.magnetization.noncolin =  false
   qes:espresso.output.magnetization.lsda =  false
   qes:espresso.output.symmetries.nsym =  48
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
           -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
+          0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
+          1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 0.000000000000000e0 1.000000000000000e0
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
+   qes:espresso.output.symmetries.symmetry.rotation =
           -1.000000000000000e0 -1.000000000000000e0 -1.000000000000000e0
           1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
           0.000000000000000e0 1.000000000000000e0 0.000000000000000e0
-          
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  0.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
-          
-   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
-   qes:espresso.output.symmetries.symmetry.rotation =  
-          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+   qes:espresso.output.symmetries.symmetry.rotation =
           1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
           0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
-          
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+          0.000000000000000e0 0.000000000000000e0 -1.000000000000000e0
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+
+   qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
+   qes:espresso.output.symmetries.symmetry.rotation =
+          -1.000000000000000e0 0.000000000000000e0 0.000000000000000e0
+          1.000000000000000e0 1.000000000000000e0 1.000000000000000e0
+          0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
+
    qes:espresso.output.symmetries.symmetry.fractional_translation =  2.500000000000000e-1 2.500000000000000e-1 2.500000000000000e-1
   qes:espresso.input.symmetry_flags.no_t_rev =  false
   qes:espresso.input.symmetry_flags.noinv =  false
@@ -342,32 +342,32 @@ Num. of MPI Processes = 1
    qes:espresso.output.band_structure.ks_energies.k_point.<xmlattr>.weight =  2.500000000000e-1
    qes:espresso.output.band_structure.ks_energies.npw =  259
    qes::espresso.output.band_structure_ks_energies.eigenvalues.<xmlattr>.size =  10
-   qes:espresso.output.band_structure.ks_energies.eigenvalues =  
+   qes:espresso.output.band_structure.ks_energies.eigenvalues =
           -2.002420829529851e-1 2.476183132222760e-1 2.476183132250107e-1 2.476183132366509e-1 3.393492093960696e-1
           3.393492094013354e-1 3.393492094114291e-1 3.664712292606922e-1 5.361421758969527e-1 5.639076388408338e-1
-          
+
   Irreducible k-point: 1
    qes:espresso.output.band_structure.ks_energies.k_point =  5.000000000000000e-1 -5.000000000000000e-1 5.000000000000000e-1
    qes:espresso.output.band_structure.ks_energies.k_point.<xmlattr>.weight =  1.000000000000e0
    qes:espresso.output.band_structure.ks_energies.npw =  266
    qes::espresso.output.band_structure_ks_energies.eigenvalues.<xmlattr>.size =  10
-   qes:espresso.output.band_structure.ks_energies.eigenvalues =  
+   qes:espresso.output.band_structure.ks_energies.eigenvalues =
           -1.137308293762993e-1 -1.768290539969979e-2 1.980352413256708e-1 1.980352413277635e-1 3.053034713482162e-1
           3.741289785726116e-1 3.741290350063573e-1 5.278633592631059e-1 6.702231486723621e-1 6.751720573140054e-1
-          
+
   Irreducible k-point: 2
    qes:espresso.output.band_structure.ks_energies.k_point =  0.000000000000000e0 -1.000000000000000e0 0.000000000000000e0
    qes:espresso.output.band_structure.ks_energies.k_point.<xmlattr>.weight =  7.500000000000e-1
    qes:espresso.output.band_structure.ks_energies.npw =  254
    qes::espresso.output.band_structure_ks_energies.eigenvalues.<xmlattr>.size =  10
-   qes:espresso.output.band_structure.ks_energies.eigenvalues =  
+   qes:espresso.output.band_structure.ks_energies.eigenvalues =
           -4.639849298596629e-2 -4.639849298419957e-2 1.339389440824843e-1 1.339389440849518e-1 2.749191864647015e-1
           2.749191873843185e-1 6.200866396777008e-1 6.200867267886300e-1 7.024952335471366e-1 7.253268947622013e-1
-          
+
   Print symmetrically-repiclated kvectors:
   Irreducible k-vector (ik = 0) 0 0 0
    symmetrically-equivalent k-vector (isymk = 0): 0 0 0
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
 1 0 0
 0 1 0
 0 0 1
@@ -376,7 +376,7 @@ Num. of MPI Processes = 1
 
   Irreducible k-vector (ik = 1) 0 0 -0.5
    symmetrically-equivalent k-vector (isymk = 0): 0 0 -0.5
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
 1 0 0
 0 1 0
 0 0 1
@@ -384,7 +384,7 @@ Num. of MPI Processes = 1
    translation vector (while not applied to the k-vector) = 0 0 0
 
    symmetrically-equivalent k-vector (isymk = 1): 0.5 0.5 0.5
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
  0  1 -1
  1  0 -1
  0  0 -1
@@ -392,7 +392,7 @@ Num. of MPI Processes = 1
    translation vector (while not applied to the k-vector) = 0 0 0
 
    symmetrically-equivalent k-vector (isymk = 2): 0 -0.5 0
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
 -1  0  0
 -1  0  1
 -1  1  0
@@ -400,7 +400,7 @@ Num. of MPI Processes = 1
    translation vector (while not applied to the k-vector) = 0 0 0
 
    symmetrically-equivalent k-vector (isymk = 3): -0.5 0 0
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
  0 -1  1
  0 -1  0
  1 -1  0
@@ -409,7 +409,7 @@ Num. of MPI Processes = 1
 
   Irreducible k-vector (ik = 2) 0 -0.5 -0.5
    symmetrically-equivalent k-vector (isymk = 0): 0 -0.5 -0.5
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
 1 0 0
 0 1 0
 0 0 1
@@ -417,7 +417,7 @@ Num. of MPI Processes = 1
    translation vector (while not applied to the k-vector) = 0 0 0
 
    symmetrically-equivalent k-vector (isymk = 1): 0.5 0 0.5
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
  0 -1  0
 -1  0  0
  0  0 -1
@@ -425,7 +425,7 @@ Num. of MPI Processes = 1
    translation vector (while not applied to the k-vector) = 0.25 0.25 0.25
 
    symmetrically-equivalent k-vector (isymk = 2): -0.5 -0.5 0
-   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space) 
+   transformation operator (in k-space, applied to the irreducible k. Transpose of the symmorphic operator in r-space)
 -1  1  0
  0  1  0
  0  1 -1
@@ -494,7 +494,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  1.300016939e-05  1.300016939e-05  0  2.600033878e-05
     0.2  1.300016939e-05  1.300016939e-05  0  2.600033878e-05
@@ -536,7 +536,7 @@ Num. of MPI Processes = 1
     3.8  3.81154282  3.81154282  0  7.623085639
     3.9  3.986228208  3.986228208  0  7.972456416
     4  4.150315628  4.150315628  0  8.300631256
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  1.300018608e-05  1.300018608e-05  0  2.600037217e-05
     0.2  1.300018608e-05  1.300018608e-05  0  2.600037217e-05
@@ -650,7 +650,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0001922027999  0.0001922027999  0  0.0003844055998
     0.2  0.0001922027999  0.0001922027999  0  0.0003844055998
@@ -692,7 +692,7 @@ Num. of MPI Processes = 1
     3.8  3.572872208  3.572872208  0  7.145744415
     3.9  3.816726958  3.816726958  0  7.633453917
     4  4.043756837  4.043756837  0  8.087513674
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0001922029584  0.0001922029584  0  0.0003844059169
     0.2  0.0001922029584  0.0001922029584  0  0.0003844059169
@@ -807,7 +807,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0002892526211  0.0002892526211  0  0.0005785052421
     0.2  0.0002892526211  0.0002892526211  0  0.0005785052421
@@ -849,7 +849,7 @@ Num. of MPI Processes = 1
     3.8  3.476777909  3.476777909  0  6.953555818
     3.9  3.74873538  3.74873538  0  7.497470761
     4  4.001858476  4.001858476  0  8.003716952
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0002892527266  0.0002892527266  0  0.0005785054531
     0.2  0.0002892527266  0.0002892527266  0  0.0005785054531
@@ -964,7 +964,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003452869879  0.0003452869879  0  0.0006905739759
     0.2  0.0003452869879  0.0003452869879  0  0.0006905739759
@@ -1006,7 +1006,7 @@ Num. of MPI Processes = 1
     3.8  3.460927978  3.460927978  0  6.921855955
     3.9  3.737918659  3.737918659  0  7.475837318
     4  3.995627815  3.995627815  0  7.991255631
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003452870385  0.0003452870385  0  0.000690574077
     0.2  0.0003452870385  0.0003452870385  0  0.000690574077
@@ -1121,7 +1121,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003770040548  0.0003770040548  0  0.0007540081095
     0.2  0.0003770040548  0.0003770040548  0  0.0007540081095
@@ -1163,7 +1163,7 @@ Num. of MPI Processes = 1
     3.8  3.466502214  3.466502214  0  6.933004428
     3.9  3.742415437  3.742415437  0  7.484830875
     4  3.998971209  3.998971209  0  7.997942419
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003770040808  0.0003770040808  0  0.0007540081616
     0.2  0.0003770040808  0.0003770040808  0  0.0007540081616
@@ -1278,7 +1278,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003894745075  0.0003894745075  0  0.000778949015
     0.2  0.0003894745075  0.0003894745075  0  0.000778949015
@@ -1320,7 +1320,7 @@ Num. of MPI Processes = 1
     3.8  3.470909103  3.470909103  0  6.941818206
     3.9  3.74580195  3.74580195  0  7.4916039
     4  4.001323787  4.001323787  0  8.002647574
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003894745178  0.0003894745178  0  0.0007789490356
     0.2  0.0003894745178  0.0003894745178  0  0.0007789490356
@@ -1435,7 +1435,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003921876051  0.0003921876051  0  0.0007843752102
     0.2  0.0003921876051  0.0003921876051  0  0.0007843752102
@@ -1477,7 +1477,7 @@ Num. of MPI Processes = 1
     3.8  3.472116063  3.472116063  0  6.944232125
     3.9  3.746721285  3.746721285  0  7.49344257
     4  4.001948273  4.001948273  0  8.003896546
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003921876086  0.0003921876086  0  0.0007843752171
     0.2  0.0003921876086  0.0003921876086  0  0.0007843752171
@@ -1592,7 +1592,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003920538705  0.0003920538705  0  0.000784107741
     0.2  0.0003920538705  0.0003920538705  0  0.000784107741
@@ -1634,7 +1634,7 @@ Num. of MPI Processes = 1
     3.8  3.472025774  3.472025774  0  6.944051549
     3.9  3.746646112  3.746646112  0  7.493292224
     4  4.001880305  4.001880305  0  8.00376061
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003920538715  0.0003920538715  0  0.000784107743
     0.2  0.0003920538715  0.0003920538715  0  0.000784107743
@@ -1749,7 +1749,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003921161767  0.0003921161767  0  0.0007842323535
     0.2  0.0003921161767  0.0003921161767  0  0.0007842323535
@@ -1791,7 +1791,7 @@ Num. of MPI Processes = 1
     3.8  3.471860227  3.471860227  0  6.943720453
     3.9  3.746502653  3.746502653  0  7.493005306
     4  4.001752948  4.001752948  0  8.003505897
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003921161772  0.0003921161772  0  0.0007842323543
     0.2  0.0003921161772  0.0003921161772  0  0.0007842323543
@@ -1906,7 +1906,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003922437167  0.0003922437167  0  0.0007844874334
     0.2  0.0003922437167  0.0003922437167  0  0.0007844874334
@@ -1948,7 +1948,7 @@ Num. of MPI Processes = 1
     3.8  3.471768314  3.471768314  0  6.943536629
     3.9  3.746422638  3.746422638  0  7.492845275
     4  4.0016818  4.0016818  0  8.0033636
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.000392243717  0.000392243717  0  0.0007844874341
     0.2  0.000392243717  0.000392243717  0  0.0007844874341
@@ -2063,7 +2063,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003923228369  0.0003923228369  0  0.0007846456738
     0.2  0.0003923228369  0.0003923228369  0  0.0007846456738
@@ -2105,7 +2105,7 @@ Num. of MPI Processes = 1
     3.8  3.471740397  3.471740397  0  6.943480793
     3.9  3.746395021  3.746395021  0  7.492790043
     4  4.001653793  4.001653793  0  8.003307586
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003923228372  0.0003923228372  0  0.0007846456743
     0.2  0.0003923228372  0.0003923228372  0  0.0007846456743
@@ -2220,7 +2220,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003923591498  0.0003923591498  0  0.0007847182996
     0.2  0.0003923591498  0.0003923591498  0  0.0007847182996
@@ -2262,7 +2262,7 @@ Num. of MPI Processes = 1
     3.8  3.471728182  3.471728182  0  6.943456364
     3.9  3.746380516  3.746380516  0  7.492761033
     4  4.00163727  4.00163727  0  8.00327454
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003923591501  0.0003923591501  0  0.0007847183003
     0.2  0.0003923591501  0.0003923591501  0  0.0007847183003
@@ -2377,7 +2377,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003923896235  0.0003923896235  0  0.000784779247
     0.2  0.0003923896235  0.0003923896235  0  0.000784779247
@@ -2419,7 +2419,7 @@ Num. of MPI Processes = 1
     3.8  3.471714804  3.471714804  0  6.943429609
     3.9  3.746365225  3.746365225  0  7.49273045
     4  4.001620647  4.001620647  0  8.003241293
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003923896239  0.0003923896239  0  0.0007847792478
     0.2  0.0003923896239  0.0003923896239  0  0.0007847792478
@@ -2534,7 +2534,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003924165179  0.0003924165179  0  0.0007848330358
     0.2  0.0003924165179  0.0003924165179  0  0.0007848330358
@@ -2576,7 +2576,7 @@ Num. of MPI Processes = 1
     3.8  3.471693513  3.471693513  0  6.943387027
     3.9  3.746343396  3.746343396  0  7.492686793
     4  4.001599011  4.001599011  0  8.003198022
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003924165183  0.0003924165183  0  0.0007848330366
     0.2  0.0003924165183  0.0003924165183  0  0.0007848330366
@@ -2691,7 +2691,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003924432874  0.0003924432874  0  0.0007848865748
     0.2  0.0003924432874  0.0003924432874  0  0.0007848865748
@@ -2733,7 +2733,7 @@ Num. of MPI Processes = 1
     3.8  3.471662896  3.471662896  0  6.943325792
     3.9  3.746313743  3.746313743  0  7.492627485
     4  4.00157115  4.00157115  0  8.003142301
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003924432878  0.0003924432878  0  0.0007848865757
     0.2  0.0003924432878  0.0003924432878  0  0.0007848865757
@@ -2848,7 +2848,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003924738987  0.0003924738987  0  0.0007849477974
     0.2  0.0003924738987  0.0003924738987  0  0.0007849477974
@@ -2890,7 +2890,7 @@ Num. of MPI Processes = 1
     3.8  3.471622559  3.471622559  0  6.943245118
     3.9  3.746275768  3.746275768  0  7.492551537
     4  4.001536491  4.001536491  0  8.003072983
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003924738992  0.0003924738992  0  0.0007849477985
     0.2  0.0003924738992  0.0003924738992  0  0.0007849477985
@@ -3005,7 +3005,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003925052844  0.0003925052844  0  0.0007850105688
     0.2  0.0003925052844  0.0003925052844  0  0.0007850105688
@@ -3047,7 +3047,7 @@ Num. of MPI Processes = 1
     3.8  3.471569154  3.471569154  0  6.943138309
     3.9  3.746226677  3.746226677  0  7.492453354
     4  4.001492806  4.001492806  0  8.002985612
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003925052854  0.0003925052854  0  0.0007850105708
     0.2  0.0003925052854  0.0003925052854  0  0.0007850105708
@@ -3162,7 +3162,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003925427364  0.0003925427364  0  0.0007850854729
     0.2  0.0003925427364  0.0003925427364  0  0.0007850854729
@@ -3204,7 +3204,7 @@ Num. of MPI Processes = 1
     3.8  3.471500601  3.471500601  0  6.943001203
     3.9  3.746164614  3.746164614  0  7.492329228
     4  4.001438515  4.001438515  0  8.002877031
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003925427394  0.0003925427394  0  0.0007850854789
     0.2  0.0003925427394  0.0003925427394  0  0.0007850854789
@@ -3319,7 +3319,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003925830734  0.0003925830734  0  0.0007851661468
     0.2  0.0003925830734  0.0003925830734  0  0.0007851661468
@@ -3361,7 +3361,7 @@ Num. of MPI Processes = 1
     3.8  3.471411426  3.471411426  0  6.942822851
     3.9  3.746085027  3.746085027  0  7.492170055
     4  4.001370022  4.001370022  0  8.002740045
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003925830824  0.0003925830824  0  0.0007851661649
     0.2  0.0003925830824  0.0003925830824  0  0.0007851661649
@@ -3476,7 +3476,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.000392633539  0.000392633539  0  0.000785267078
     0.2  0.000392633539  0.000392633539  0  0.000785267078
@@ -3518,7 +3518,7 @@ Num. of MPI Processes = 1
     3.8  3.471297761  3.471297761  0  6.942595523
     3.9  3.745984537  3.745984537  0  7.491969073
     4  4.001284506  4.001284506  0  8.002569012
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003926335634  0.0003926335634  0  0.0007852671268
     0.2  0.0003926335634  0.0003926335634  0  0.0007852671268
@@ -3633,7 +3633,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003926918782  0.0003926918782  0  0.0007853837565
     0.2  0.0003926918782  0.0003926918782  0  0.0007853837565
@@ -3675,7 +3675,7 @@ Num. of MPI Processes = 1
     3.8  3.471151722  3.471151722  0  6.942303443
     3.9  3.745856542  3.745856542  0  7.491713083
     4  4.001176712  4.001176712  0  8.002353425
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.000392691917  0.000392691917  0  0.0007853838341
     0.2  0.000392691917  0.000392691917  0  0.0007853838341
@@ -3790,7 +3790,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003927673507  0.0003927673507  0  0.0007855347015
     0.2  0.0003927673507  0.0003927673507  0  0.0007855347015
@@ -3832,7 +3832,7 @@ Num. of MPI Processes = 1
     3.8  3.47096675  3.47096675  0  6.9419335
     3.9  3.745695353  3.745695353  0  7.491390706
     4  4.001041931  4.001041931  0  8.002083862
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003927674  0.0003927674  0  0.0007855348001
     0.2  0.0003927674  0.0003927674  0  0.0007855348001
@@ -3947,7 +3947,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003928590509  0.0003928590509  0  0.0007857181018
     0.2  0.0003928590509  0.0003928590509  0  0.0007857181018
@@ -3989,7 +3989,7 @@ Num. of MPI Processes = 1
     3.8  3.470731358  3.470731358  0  6.941462716
     3.9  3.745491323  3.745491323  0  7.490982647
     4  4.000872451  4.000872451  0  8.001744902
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003928591047  0.0003928591047  0  0.0007857182094
     0.2  0.0003928591047  0.0003928591047  0  0.0007857182094
@@ -4104,7 +4104,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003929795744  0.0003929795744  0  0.0007859591487
     0.2  0.0003929795744  0.0003929795744  0  0.0007859591487
@@ -4146,7 +4146,7 @@ Num. of MPI Processes = 1
     3.8  3.470435261  3.470435261  0  6.940870522
     3.9  3.745235559  3.745235559  0  7.490471118
     4  4.000660934  4.000660934  0  8.001321869
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003929796263  0.0003929796263  0  0.0007859592527
     0.2  0.0003929796263  0.0003929796263  0  0.0007859592527
@@ -4261,7 +4261,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003931293663  0.0003931293663  0  0.0007862587326
     0.2  0.0003931293663  0.0003931293663  0  0.0007862587326
@@ -4303,7 +4303,7 @@ Num. of MPI Processes = 1
     3.8  3.470061986  3.470061986  0  6.940123972
     3.9  3.744914199  3.744914199  0  7.489828397
     4  4.000396279  4.000396279  0  8.000792557
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003931294089  0.0003931294089  0  0.0007862588178
     0.2  0.0003931294089  0.0003931294089  0  0.0007862588178
@@ -4418,7 +4418,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003933261236  0.0003933261236  0  0.0007866522471
     0.2  0.0003933261236  0.0003933261236  0  0.0007866522471
@@ -4460,7 +4460,7 @@ Num. of MPI Processes = 1
     3.8  3.469596926  3.469596926  0  6.939193852
     3.9  3.744514617  3.744514617  0  7.489029233
     4  4.000068072  4.000068072  0  8.000136144
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003933261536  0.0003933261536  0  0.0007866523073
     0.2  0.0003933261536  0.0003933261536  0  0.0007866523073
@@ -4575,7 +4575,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003935711822  0.0003935711822  0  0.0007871423644
     0.2  0.0003935711822  0.0003935711822  0  0.0007871423644
@@ -4617,7 +4617,7 @@ Num. of MPI Processes = 1
     3.8  3.469018039  3.469018039  0  6.938036077
     3.9  3.744018235  3.744018235  0  7.488036469
     4  3.999661401  3.999661401  0  7.999322802
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003935712001  0.0003935712001  0  0.0007871424002
     0.2  0.0003935712001  0.0003935712001  0  0.0007871424002
@@ -4732,7 +4732,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.000393888607  0.000393888607  0  0.0007877772141
     0.2  0.000393888607  0.000393888607  0  0.0007877772141
@@ -4774,7 +4774,7 @@ Num. of MPI Processes = 1
     3.8  3.46830751  3.46830751  0  6.936615019
     3.9  3.74340963  3.74340963  0  7.486819259
     4  3.999163534  3.999163534  0  7.998327069
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.000393888616  0.000393888616  0  0.000787777232
     0.2  0.000393888616  0.000393888616  0  0.000787777232
@@ -4889,7 +4889,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003942796936  0.0003942796936  0  0.0007885593873
     0.2  0.0003942796936  0.0003942796936  0  0.0007885593873
@@ -4931,7 +4931,7 @@ Num. of MPI Processes = 1
     3.8  3.467440176  3.467440176  0  6.934880352
     3.9  3.742667534  3.742667534  0  7.485335068
     4  3.998557325  3.998557325  0  7.997114651
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003942797011  0.0003942797011  0  0.0007885594021
     0.2  0.0003942797011  0.0003942797011  0  0.0007885594021
@@ -5046,7 +5046,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003947722636  0.0003947722636  0  0.0007895445272
     0.2  0.0003947722636  0.0003947722636  0  0.0007895445272
@@ -5088,7 +5088,7 @@ Num. of MPI Processes = 1
     3.8  3.466399624  3.466399624  0  6.932799248
     3.9  3.741777711  3.741777711  0  7.483555422
     4  3.997831033  3.997831033  0  7.995662066
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.000394772275  0.000394772275  0  0.00078954455
     0.2  0.000394772275  0.000394772275  0  0.00078954455
@@ -5203,7 +5203,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003953662203  0.0003953662203  0  0.0007907324406
     0.2  0.0003953662203  0.0003953662203  0  0.0007907324406
@@ -5245,7 +5245,7 @@ Num. of MPI Processes = 1
     3.8  3.465165994  3.465165994  0  6.930331988
     3.9  3.740723271  3.740723271  0  7.481446541
     4  3.996970895  3.996970895  0  7.99394179
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003953662443  0.0003953662443  0  0.0007907324887
     0.2  0.0003953662443  0.0003953662443  0  0.0007907324887
@@ -5360,7 +5360,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003960848487  0.0003960848487  0  0.0007921696975
     0.2  0.0003960848487  0.0003960848487  0  0.0007921696975
@@ -5402,7 +5402,7 @@ Num. of MPI Processes = 1
     3.8  3.463733602  3.463733602  0  6.927467204
     3.9  3.739499185  3.739499185  0  7.47899837
     4  3.995972753  3.995972753  0  7.991945507
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.000396084888  0.000396084888  0  0.0007921697761
     0.2  0.000396084888  0.000396084888  0  0.0007921697761
@@ -5517,7 +5517,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.000396921836  0.000396921836  0  0.0007938436719
     0.2  0.000396921836  0.000396921836  0  0.0007938436719
@@ -5559,7 +5559,7 @@ Num. of MPI Processes = 1
     3.8  3.462100282  3.462100282  0  6.924200565
     3.9  3.738103481  3.738103481  0  7.476206962
     4  3.994834783  3.994834783  0  7.989669565
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003969218961  0.0003969218961  0  0.0007938437923
     0.2  0.0003969218961  0.0003969218961  0  0.0007938437923
@@ -5674,7 +5674,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003978889528  0.0003978889528  0  0.0007957779056
     0.2  0.0003978889528  0.0003978889528  0  0.0007957779056
@@ -5716,7 +5716,7 @@ Num. of MPI Processes = 1
     3.8  3.460281976  3.460281976  0  6.920563952
     3.9  3.736549615  3.736549615  0  7.47309923
     4  3.993567917  3.993567917  0  7.987135834
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003978890299  0.0003978890299  0  0.0007957780599
     0.2  0.0003978890299  0.0003978890299  0  0.0007957780599
@@ -5831,7 +5831,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003989672079  0.0003989672079  0  0.0007979344157
     0.2  0.0003989672079  0.0003989672079  0  0.0007979344157
@@ -5873,7 +5873,7 @@ Num. of MPI Processes = 1
     3.8  3.458300974  3.458300974  0  6.916601947
     3.9  3.734856407  3.734856407  0  7.469712813
     4  3.992187162  3.992187162  0  7.984374324
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0003989673004  0.0003989673004  0  0.0007979346009
     0.2  0.0003989673004  0.0003989673004  0  0.0007979346009
@@ -5988,7 +5988,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004001523181  0.0004001523181  0  0.0008003046363
     0.2  0.0004001523181  0.0004001523181  0  0.0008003046363
@@ -6030,7 +6030,7 @@ Num. of MPI Processes = 1
     3.8  3.456194626  3.456194626  0  6.912389251
     3.9  3.7330557  3.7330557  0  7.4661114
     4  3.990718534  3.990718534  0  7.981437068
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004001524136  0.0004001524136  0  0.0008003048272
     0.2  0.0004001524136  0.0004001524136  0  0.0008003048272
@@ -6145,7 +6145,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004014136731  0.0004014136731  0  0.0008028273462
     0.2  0.0004014136731  0.0004014136731  0  0.0008028273462
@@ -6187,7 +6187,7 @@ Num. of MPI Processes = 1
     3.8  3.454001877  3.454001877  0  6.908003753
     3.9  3.731180603  3.731180603  0  7.462361205
     4  3.989188745  3.989188745  0  7.978377489
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004014137632  0.0004014137632  0  0.0008028275263
     0.2  0.0004014137632  0.0004014137632  0  0.0008028275263
@@ -6302,7 +6302,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004027348688  0.0004027348688  0  0.0008054697376
     0.2  0.0004027348688  0.0004027348688  0  0.0008054697376
@@ -6344,7 +6344,7 @@ Num. of MPI Processes = 1
     3.8  3.451766777  3.451766777  0  6.903533554
     3.9  3.729268854  3.729268854  0  7.458537708
     4  3.98762876  3.98762876  0  7.97525752
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004027349378  0.0004027349378  0  0.0008054698756
     0.2  0.0004027349378  0.0004027349378  0  0.0008054698756
@@ -6459,7 +6459,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004040829532  0.0004040829532  0  0.0008081659064
     0.2  0.0004040829532  0.0004040829532  0  0.0008081659064
@@ -6501,7 +6501,7 @@ Num. of MPI Processes = 1
     3.8  3.449527279  3.449527279  0  6.899054557
     3.9  3.727352866  3.727352866  0  7.454705732
     4  3.986064895  3.986064895  0  7.972129789
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004040829932  0.0004040829932  0  0.0008081659864
     0.2  0.0004040829932  0.0004040829932  0  0.0008081659864
@@ -6616,7 +6616,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004054394508  0.0004054394508  0  0.0008108789017
     0.2  0.0004054394508  0.0004054394508  0  0.0008108789017
@@ -6658,7 +6658,7 @@ Num. of MPI Processes = 1
     3.8  3.447317534  3.447317534  0  6.894635068
     3.9  3.725462041  3.725462041  0  7.450924082
     4  3.984521401  3.984521401  0  7.969042802
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004054394514  0.0004054394514  0  0.0008108789028
     0.2  0.0004054394514  0.0004054394514  0  0.0008108789028
@@ -6773,7 +6773,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004067788405  0.0004067788405  0  0.000813557681
     0.2  0.0004067788405  0.0004067788405  0  0.000813557681
@@ -6815,7 +6815,7 @@ Num. of MPI Processes = 1
     3.8  3.445162137  3.445162137  0  6.890324274
     3.9  3.72361748  3.72361748  0  7.44723496
     4  3.983015494  3.983015494  0  7.966030989
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004067787996  0.0004067787996  0  0.0008135575992
     0.2  0.0004067787996  0.0004067787996  0  0.0008135575992
@@ -6930,7 +6930,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004080884724  0.0004080884724  0  0.0008161769448
     0.2  0.0004080884724  0.0004080884724  0  0.0008161769448
@@ -6972,7 +6972,7 @@ Num. of MPI Processes = 1
     3.8  3.443079192  3.443079192  0  6.886158384
     3.9  3.72183487  3.72183487  0  7.44366974
     4  3.981560216  3.981560216  0  7.963120432
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004080883868  0.0004080883868  0  0.0008161767736
     0.2  0.0004080883868  0.0004080883868  0  0.0008161767736
@@ -7087,7 +7087,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.000409353816  0.000409353816  0  0.0008187076319
     0.2  0.000409353816  0.000409353816  0  0.0008187076319
@@ -7129,7 +7129,7 @@ Num. of MPI Processes = 1
     3.8  3.441078885  3.441078885  0  6.88215777
     3.9  3.720123001  3.720123001  0  7.440246002
     4  3.980162764  3.980162764  0  7.960325527
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004093536882  0.0004093536882  0  0.0008187073763
     0.2  0.0004093536882  0.0004093536882  0  0.0008187073763
@@ -7244,7 +7244,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004105697904  0.0004105697904  0  0.0008211395808
     0.2  0.0004105697904  0.0004105697904  0  0.0008211395808
@@ -7286,7 +7286,7 @@ Num. of MPI Processes = 1
     3.8  3.439166569  3.439166569  0  6.878333137
     3.9  3.718486588  3.718486588  0  7.436973177
     4  3.978827142  3.978827142  0  7.957654285
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004105696205  0.0004105696205  0  0.0008211392411
     0.2  0.0004105696205  0.0004105696205  0  0.0008211392411
@@ -7401,7 +7401,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004117307932  0.0004117307932  0  0.0008234615863
     0.2  0.0004117307932  0.0004117307932  0  0.0008234615863
@@ -7443,7 +7443,7 @@ Num. of MPI Processes = 1
     3.8  3.437343037  3.437343037  0  6.874686073
     3.9  3.716926348  3.716926348  0  7.433852695
     4  3.977553933  3.977553933  0  7.955107867
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004117305842  0.0004117305842  0  0.0008234611684
     0.2  0.0004117305842  0.0004117305842  0  0.0008234611684
@@ -7558,7 +7558,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.000412837121  0.000412837121  0  0.0008256742419
     0.2  0.000412837121  0.000412837121  0  0.0008256742419
@@ -7600,7 +7600,7 @@ Num. of MPI Processes = 1
     3.8  3.435606735  3.435606735  0  6.871213469
     3.9  3.715441014  3.715441014  0  7.430882028
     4  3.976342183  3.976342183  0  7.952684366
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004128368723  0.0004128368723  0  0.0008256737446
     0.2  0.0004128368723  0.0004128368723  0  0.0008256737446
@@ -7715,7 +7715,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004138883409  0.0004138883409  0  0.0008277766818
     0.2  0.0004138883409  0.0004138883409  0  0.0008277766818
@@ -7757,7 +7757,7 @@ Num. of MPI Processes = 1
     3.8  3.433954206  3.433954206  0  6.867908412
     3.9  3.714027626  3.714027626  0  7.428055253
     4  3.97518944  3.97518944  0  7.950378881
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004138880531  0.0004138880531  0  0.0008277761061
     0.2  0.0004138880531  0.0004138880531  0  0.0008277761061
@@ -7872,7 +7872,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004148873279  0.0004148873279  0  0.0008297746558
     0.2  0.0004148873279  0.0004148873279  0  0.0008297746558
@@ -7914,7 +7914,7 @@ Num. of MPI Processes = 1
     3.8  3.432381347  3.432381347  0  6.864762693
     3.9  3.712682692  3.712682692  0  7.425365383
     4  3.974092884  3.974092884  0  7.948185767
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004148869977  0.0004148869977  0  0.0008297739954
     0.2  0.0004148869977  0.0004148869977  0  0.0008297739954
@@ -8029,7 +8029,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004158358569  0.0004158358569  0  0.0008316717138
     0.2  0.0004158358569  0.0004158358569  0  0.0008316717138
@@ -8071,7 +8071,7 @@ Num. of MPI Processes = 1
     3.8  3.430883619  3.430883619  0  6.861767237
     3.9  3.711402298  3.711402298  0  7.422804595
     4  3.97304927  3.97304927  0  7.94609854
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004158354817  0.0004158354817  0  0.0008316709634
     0.2  0.0004158354817  0.0004158354817  0  0.0008316709634
@@ -8186,7 +8186,7 @@ Num. of MPI Processes = 1
    num. of electrons (spin up) = (4,0) , num. of electrons (spin down) = (4,0)
    total magnetization = (0,0)
    num. of electrons inside a sphere with a radius r around each atom
-    Atom 0: 
+    Atom 0:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004167374801  0.0004167374801  0  0.0008334749602
     0.2  0.0004167374801  0.0004167374801  0  0.0008334749602
@@ -8228,7 +8228,7 @@ Num. of MPI Processes = 1
     3.8  3.429456649  3.429456649  0  6.858913298
     3.9  3.710182698  3.710182698  0  7.420365396
     4  3.972055545  3.972055545  0  7.944111089
-    Atom 1: 
+    Atom 1:
     r (Bohr),  up,  down,  up - down,  up + down
     0.1  0.0004167370537  0.0004167370537  0  0.0008334741075
     0.2  0.0004167370537  0.0004167370537  0  0.0008334741075

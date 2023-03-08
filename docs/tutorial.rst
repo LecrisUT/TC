@@ -44,7 +44,7 @@ To obtain a band structure, we also need to perform band calculation using QE.
 
    For band-structure calculation, please copy the directory where SCF calculation was performed and perform band calculation there.
    Namely, SCF and band calculations should be performed in different directories.
-   
+
 Band calculation in QE is performed with the following input file:
 
 ::
@@ -178,7 +178,7 @@ and then perform SCF calculation with TC++, which gives the SCF and BAND eigenva
 However, we do not recommend this way by the following reasons: band eigenvalues are not checked for convergence in this calculation (see ``energy_tolerance``
 in :doc:`input_in`), and computational cost becomes expensive because the computation time is proportional to the square of the number of k-points.
 Note that ``tc_bandplot.dat`` is not dumped in the `fake`-SCF procedure since ``calc_mode = SCF``.
-	   
+
 .. [1] M. Chandler Bennett *et al.*, J. Chem. Phys. **149**, 104108 (2018).
 
 Homogeneous Electron Gas

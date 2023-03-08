@@ -37,9 +37,9 @@ def check_tc(output, output_ref, checks_totE):
         totE_ref = [lines_ref_totE_split[4]]
         lines_ref_totE_split = lines_ref_totE[len(lines_ref_totE)-2].split()
         totE_ref.append(lines_ref_totE_split[4])
-        
+
         print('  Reference total energies (two SCF loops)', totE_ref)
-        
+
         lines_totE = [line for line in lines if 'Total energy =' in line]
         lines_totE_split = lines_totE[len(lines_totE)-1].split()
         totE = [lines_totE_split[4]]
@@ -47,7 +47,7 @@ def check_tc(output, output_ref, checks_totE):
         totE.append(lines_totE_split[4])
 
         print('  Calculated total energies (two SCF loops)', totE)
-        
+
         if (abs(float(totE[0]) - float(totE_ref[0])) < 1e-5 and abs(float(totE[1]) - float(totE_ref[1])) < 1e-5):
             print('\033[32m'+'  Total-energy check passed.'+'\033[0m')
         else:
@@ -135,4 +135,3 @@ subprocess.run('rm ./input.in', shell=True)
 subprocess.run('rm ./output.out', shell=True)
 
 print('\033[35m'+'Since these tests are done in serial calculation, it is recommended to check MPI parallelization does not change the results by yourself...'+'\033[0m')
-

@@ -1,9 +1,11 @@
 # TC++
+
 Version 1.2 (2023/1/16)
 
 TC++ is a first-principles calculation code using the Hartree-Fock (HF) and the transcorrelated (TC) methods for periodic systems.
 
 ## Supported functionalities
+
 - Free-electron mode (FREE), HF, TC, BITC (biorthogonal TC)
 - SCF and band calculations
 - Solid-state calculation under the periodic boundary condition. Homogeneous-electron-gas calculation using a periodic cell is also possible.
@@ -14,6 +16,7 @@ TC++ is a first-principles calculation code using the Hartree-Fock (HF) and the 
 - RPA-type Jastrow factor
 
 ## Installation
+
 Download the compressed source file and unzip it (see Releases or Tags). Then, there are two ways for installation:
 
 (1) `cd src` and edit [`Makefile`](./src/Makefile) to specify the following compilers and libraries except Quantum ESPRESSO. Finally, typing `make` will create an execution file named `tc++` in `src`.
@@ -21,6 +24,7 @@ Download the compressed source file and unzip it (see Releases or Tags). Then, t
 (2) `cmake` is also available for installation. Type `mkdir build && cd build`, `cmake ..`, `make`, and `make install` to create an execution file named `tc++`. For several options for `cmake`, please see [User's Guide](https://TCplusplus.readthedocs.io/en/latest/installation.html). For example, `cmake -DCMAKE_CXX_COMPILER=icpc -DCMAKE_Fortran_COMPILER=ifort -DEIGEN3_INCLUDE=/usr/local/eigen-3.4.0 -DFFTW_INCLUDE=/usr/local/fftw-3.3.10/include -DFFTW_LIB=/usr/local/fftw-3.3.10/lib -DCMAKE_INSTALL_PREFIX=/home/ochi/TC++ ..` will create `tc++` in `/home/ochi/TC++/bin` (NOTE: `bin` is added to CMAKE_INSTALL_PREFIX).
 
 ### Prerequisites
+
 - C++ compiler (C++11 or newer)
 - Fortran compiler (Fortran90 or newer)
 - MPI library
@@ -33,9 +37,11 @@ To verify that your installation was successfully done, a test suite is provided
 Type `cd test` and copy `tc++` into `test` directory. Then, you can perform a test calculation by typing `python3 test.py`.
 
 ## Documentation
+
 [User's Guide](https://TCplusplus.readthedocs.io/)
 
 ## License
+
 (c) 2022--2023 Masayuki Ochi. Released under the MIT license. See [`LICENSE`](./LICENSE).
 
 Please cite the following paper in all publications resulting from your use of TC++.
@@ -43,8 +49,6 @@ Please cite the following paper in all publications resulting from your use of T
 - M. Ochi: "TC++: First-principles calculation code for solids using the transcorrelated method", [Comput. Phys. Commun. **287**, 108687 (2023)](https://doi.org/10.1016/j.cpc.2023.108687).  ([arXiv link](https://arxiv.org/abs/2302.07420))
 
 ## Author & Contact
+
 [Masayuki Ochi](http://ann.phys.sci.osaka-u.ac.jp/ochi/ochi_en.html) (Osaka University, Japan)
 ochi@presto.phys.sci.osaka-u.ac.jp
-
-
-

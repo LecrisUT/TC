@@ -5,7 +5,7 @@ COMP_LINK = ${F90}
 OPT_CXX = -O2 -std=c++17 #-std=c++11
 OPT_F90 = -O2
 OPT_LINK = -O2 -nofor-main -cxxlib
-LIBS_LINK = 
+LIBS_LINK =
 OBJS_F90 =
 SRC_F90 = read_qe_wfc.f90
 
@@ -13,12 +13,12 @@ SRC_F90 = read_qe_wfc.f90
 #CXX = mpicxx
 #F90 = mpif90
 #COMP_LINK = ${CXX}
-#OPT_CXX = -O2 
+#OPT_CXX = -O2
 #OPT_F90 = -O2
 #OPT_LINK = -O2
 #LIBS_LINK = /usr/local/openmpi/lib/libmpi_mpifh.so -lquadmath /usr/local/gcc/10.1.0/lib64/libgfortran.a
 #OBJS_F90 = read_qe_wfc.o
-#SRC_F90 = 
+#SRC_F90 =
 
 # FFTW
 FFTW_DIR = /home/user/fftw

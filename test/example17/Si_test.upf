@@ -10,7 +10,7 @@
     Suggested minimum cutoff for charge density: 131. Ry
     The Pseudo was generated with a Scalar-Relativistic Calculation
     Local Potential by smoothing AE potential with Bessel fncs, cutoff radius:   2.3100
-    Valence configuration: 
+    Valence configuration:
     nl pn  l   occ       Rcut    Rcut US       E pseu
     3S  1  0  2.00      2.210      2.210    -0.794727
     3P  2  1  2.00      2.300      2.300    -0.299966

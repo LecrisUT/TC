@@ -60,13 +60,13 @@ Here, you might need to specify some options for ``cmake`` when some compilers o
 - BOOST_INCLUDE= *(BOOST include directory)*
 - BOOST_LIB = *(BOOST library directory)*
 - CMAKE_INSTALL_PREFIX = *(where to install tc++)*
-  
+
 For example:
 
 ::
 
    $ cmake -DCMAKE_CXX_COMPILER=icpc -DCMAKE_Fortran_COMPILER=ifort -DEIGEN3_INCLUDE=/usr/local/eigen-3.4.0 -DFFTW_INCLUDE=/usr/local/fftw-3.3.10/include -DFFTW_LIB=/usr/local/fftw-3.3.10/lib -DCMAKE_INSTALL_PREFIX=/home/ochi/TC++ ..
-  
+
 will create ``tc++`` in ``/home/ochi/TC++/bin`` (NOTE: ``bin`` is added to CMAKE_INSTALL_PREFIX).
 Note that MPI is automatically searched by ``cmake``, so please do not specify, e.g., mpiicpc, for CMAKE_CXX_COMPILERS.
 
@@ -104,7 +104,3 @@ and copy ``tc++`` compiled above to the ``test`` directory. Then, test calculati
    ``reads_binary false`` is specified in ``input.in`` in these test suites.
    This option is used only for test calculation, where environment-dependent binary files are not appropriate.
    You will not use this option in your research.
-
-
-
-

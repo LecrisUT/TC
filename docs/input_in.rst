@@ -13,13 +13,13 @@ Input parameters that should be specified in ``input.in`` are listed below in th
 
 All inputs are case-sensitive. Keywords listed in the alphabetical order:
 
-[**Mandatory keywords**] 
+[**Mandatory keywords**]
 calc_method_ , calc_mode_ , pseudo_dir_ , qe_save_dir_
 
 [**Optional keywords**]
 A_dn_dn_ , A_up_dn_ , A_up_up_ , charge_tolerance_ , energy_tolerance_ , includes_div_correction_ ,
 is_heg_ , max_num_blocks_david_ , max_num_iterations_ , mixes_density_matrix_ , mixing_beta_ , num_bands_tc_ ,
-num_refresh_david_ , restarts_ , smearing_mode_ , smearing_width_ 
+num_refresh_david_ , restarts_ , smearing_mode_ , smearing_width_
 
 Mandatory Keywords
 ------------------
@@ -78,7 +78,7 @@ Optional keywords
 +------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | | :math:`A_{\downarrow,\downarrow}` in the RPA-type Jastrow function, :math:`\frac{A_{\sigma, \sigma'}}{|{\bf r}-{\bf r'}|}(1-e^{-|{\bf r}-{\bf r'}|/C_{\sigma,\sigma'}})`, normalized by :math:`A_0 = 1/\sqrt{4 \pi n}`, |
 | | the value for the homogeneous electron gas having the same electron density :math:`n` of the system.                                                                                                                    |
-| | For example, **A_dn_dn** = 0.8 means :math:`A_{\downarrow,\downarrow}=0.8A_0`.                                                                                                                                          | 
+| | For example, **A_dn_dn** = 0.8 means :math:`A_{\downarrow,\downarrow}=0.8A_0`.                                                                                                                                          |
 | | :math:`C_{\downarrow,\downarrow}` is determined so as to satisfy the cusp condition. Not used for calc_method_ = FREE or HF.                                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
@@ -248,7 +248,7 @@ Examples of input.in
 Example 1 (Minimum ``input.in`` for insulators)
 
 ::
-   
+
    calc_method    TC
    calc_mode      SCF
    pseudo_dir     /home/user/pseudopot
@@ -258,7 +258,7 @@ Example 1 (Minimum ``input.in`` for insulators)
 Example 2 (Minimum ``input.in`` for metals)
 
 ::
-   
+
    calc_method     TC
    calc_mode       SCF
    pseudo_dir      /home/user/pseudopot
@@ -269,7 +269,7 @@ Example 2 (Minimum ``input.in`` for metals)
 Example 3 (Restart calculation after Example 1)
 
 ::
-   
+
    calc_method     TC
    calc_mode       SCF
    pseudo_dir      /home/user/pseudopot
@@ -280,7 +280,7 @@ Example 3 (Restart calculation after Example 1)
 Example 4
 
 ::
-   
+
    calc_method     BITC
    calc_mode       SCF
    pseudo_dir      /home/user/pseudopot
@@ -293,5 +293,3 @@ Example 4
    max_num_blocks_david  5
    mixes_density_matrix  true
    mixing_beta     0.2
-
-
